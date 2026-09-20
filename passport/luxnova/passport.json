@@ -1,7 +1,7 @@
 {
   "version": "0.1",
   "issuer": "Totem Town",
-  "issued_at": "2026-09-20T22:43:47+00:00",
+  "issued_at": "2026-09-20T22:45:05+00:00",
   "totem": {
     "id": "luxnova",
     "name": "Luxnova",
@@ -53,7 +53,13 @@
         "commands_run": 0
       }
     ],
-    "published": [],
+    "published": [
+      {
+        "url": "https://arieltaxstudioai.github.io/totem-sites/luxnova/",
+        "sha256": "0332b88e15ab40b777d4b3e5df3337962d82f214eb8e70891a6f25dbf3a99b27",
+        "receipt": "#f48c"
+      }
+    ],
     "mail": {
       "replies": 2,
       "sends": 0,
