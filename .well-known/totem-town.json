@@ -1,0 +1,13 @@
+{
+  "issuer": "Totem Town",
+  "keys": [
+    {
+      "kid": "totem-town-2026-09",
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "x": "080Q21E3RYGUJoNdDPmWQzk2AFgv3tefZVdpmF6Q4o8",
+      "use": "sig",
+      "alg": "EdDSA"
+    }
+  ]
+}
